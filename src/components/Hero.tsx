@@ -17,7 +17,7 @@ const Hero = () => {
             Full Stack Software Engineer
           </p>
           <p className="text-lg text-gray-500 max-w-2xl mx-auto mb-8">
-            Building modern web applications with Python, Django, Ruby on Rails, Java, SpringBoot, React, and JavaScript. 
+            Building modern web applications with Python, Django, Ruby on Rails, Java, SpringBoot, React, JavaScript, etc. 
             Passionate about creating scalable solutions and exceptional user experiences.
           </p>
         </div>
